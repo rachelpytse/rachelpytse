@@ -40,6 +40,6 @@
 
 ## 📫 How to reach me:
 - [LinkedIn](https://www.linkedin.com/in/rachelpytse/)
-- [rachelpytse@gmail.com](mailto:rachepytse@gmail.com)
+- [Email](mailto:rachepytse@gmail.com)
 
 
