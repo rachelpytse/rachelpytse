@@ -34,10 +34,10 @@
 
 ## ⚡ Projects Built
 - [Chat Packer](https://chat-packer.netlify.app) : (MERN stack) a virtual travel agency website using chat-GPT API to facilitate flight and accomodation booking
-🎥 [![Video](http://img.youtube.com/vi/osE1V6dsvE/0.jpg)](http://www.youtube.com/watch?v=osE1V6dsvE)
+🎥 [Click to watch the presentation](https://www.youtube.com/watch?v=BosE1V6dsvE)
 
 - [Renov'Master](https://renovmaster.fly.dev) : (Express.js, Node.js, MongoDB) my very first full stack website, a plateform for renovation company to manage the project informations
-🎥 [![Video](http://img.youtube.com/vi/s-oQZ9NByM/0.jpg)](http://www.youtube.com/watch?v=s-oQZ9NByM)
+🎥 [Click to watch the presentation](https://www.youtube.com/watch?v=-s-oQZ9NByM)
   
 - [La creperie gourmande](https://rachelpytse.github.io/LaCreperieDeRachel) : (HTML, CSS, Javascript) a javascript game using canvas and animation
 
