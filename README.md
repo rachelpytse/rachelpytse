@@ -5,7 +5,7 @@
 **👩‍💻 Full-stack web developer**  
 **👩‍🎨 Armed with a design and wearable product background,** I bring a unique perspective to development, ensuring that each solution is not only functional but also aesthetically refined and user-centric  
 📍 Paris, France  
-**🌍 Constantly looking for new opportunities to bring new ideas to life**
+**❤️ Passionate in bringing new ideas to life**
 
 
 ## 🔭 I’m currently working on
