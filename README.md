@@ -15,13 +15,11 @@
 
 
 ## 🌱 I’m currently learning
-Ironhack
----
+**Ironhack** 
 - HTML, CSS, Javascript
 - MERN stack (MongoDB, Express.js, React.js, Node.js)
   
-Start soon
----
+**Start soon**
 - Typescript
 - Next.js
 
