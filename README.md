@@ -10,8 +10,7 @@
 
 ## 🔭 I’m currently working on
 - Wearable product design and developpment in my day time
-- Renovating my portfolio website
-- Rebranding (fashion, cosmetics) in my freetime
+- Helping a friend to develop her online gallery in React
 
 
 ## 🌱 I’m currently learning
