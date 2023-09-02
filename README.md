@@ -18,7 +18,7 @@
 - HTML, CSS, Javascript
 - MERN stack (MongoDB, Express.js, React.js, Node.js)
   
-**Start soon**
+**Currently**
 - Typescript
 - Next.js
 
