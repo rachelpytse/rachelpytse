@@ -32,6 +32,8 @@
 
 
 ## ⚡ Projects Built
+- [Renov'GO](https://renov-go.netlify.app): (React) a website designed for my friend who will launch his renovation company.
+
 - [Chat Packer](https://chat-packer.netlify.app) : (MERN stack) a virtual travel agency website using chat-GPT API to facilitate flight and accomodation booking  
 🎥 [Click to watch the presentation](https://www.youtube.com/watch?v=BosE1V6dsvE)
 
