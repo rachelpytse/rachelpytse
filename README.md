@@ -31,16 +31,6 @@
 - Figma
 
 
-## ⚡ Projects Built
-- [Renov'GO](https://renov-go.netlify.app): (React) a website built for my friend with his requested functions.
-
-- [Chat Packer](https://chat-packer.netlify.app) : (MERN stack) a virtual travel agency website using chat-GPT API to facilitate flight and accomodation booking  
-🎥 [Click to watch the presentation](https://www.youtube.com/watch?v=BosE1V6dsvE)
-
-- [Renov'Master](https://renovmaster.fly.dev) : (Express.js, Node.js, MongoDB) my very first full stack website, a plateform for renovation company to manage the project informations  
-🎥 [Click to watch the presentation](https://www.youtube.com/watch?v=-s-oQZ9NByM)  
-  
-- [La creperie gourmande](https://rachelpytse.github.io/LaCreperieDeRachel) : (HTML, CSS, Javascript) a javascript game using canvas and animation
 
 
 ## 📫 How to reach me:
