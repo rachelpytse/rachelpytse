@@ -32,6 +32,7 @@ Renovation work website
 Link -> [RenovGO](https://renov-go.fr)
 
 ###Other clone exercise projects###
+
 Lingo: Duolingo clone
 Link -> [Lingo](https://lingo-beige.vercel.app)
 
