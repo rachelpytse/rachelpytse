@@ -42,7 +42,7 @@ Link -> [Board](https://board-app-xi.vercel.app)
 Jotion: Notion clone
 Link -> [Jotion](https://jotion-gamma-nine.vercel.app)
 
-##🔧 Web development stacks
+## 🔧 Web development stacks
 - HTML, CSS, Javascript
 - MERN stack (MongoDB, Express.js, React.js, Node.js)
 - Typescript
