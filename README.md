@@ -38,6 +38,8 @@ Renovation work website
 
 Link -> [RenovGO](https://renov-go.fr)
 
+**I have also worked on some projects in private repo**
+
 **Other clone exercise projects**
 
 Lingo: Duolingo clone
@@ -52,7 +54,6 @@ Jotion: Notion clone
 
 Link -> [Jotion](https://jotion-gamma-nine.vercel.app)
 
-**I have also worked on some projects in private repo**
 
 ## 🔧 Web development stacks
 - HTML, CSS, Javascript
