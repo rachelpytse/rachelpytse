@@ -52,6 +52,8 @@ Jotion: Notion clone
 
 Link -> [Jotion](https://jotion-gamma-nine.vercel.app)
 
+**I have also worked on some projects in private repo**
+
 ## 🔧 Web development stacks
 - HTML, CSS, Javascript
 - MERN stack (MongoDB, Express.js, React.js, Node.js)
