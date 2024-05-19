@@ -6,7 +6,7 @@
 **❤️ Passionate in bringing new ideas to life**
 
 ## 🌱 I’m currently learning
-**La Capsule** 
+**DevOps bootcamp** 
 - Script: Linux Bash, Python
 - Test: Cypress, Locust, Jest, SonarQube
 - IaC: Terraform, Ansible
