@@ -32,12 +32,6 @@ The final project of my Ironhack bootcamp, we integrated Openai API, Airbnb API,
 
 Link -> [Chat packer](https://chat-packer.netlify.app)
 
-**RenovGO**
-
-Renovation work website
-
-Link -> [RenovGO](https://renov-go.fr)
-
 **Other clone exercise projects**
 
 Lingo: Duolingo clone
@@ -51,9 +45,6 @@ Link -> [Board](https://board-app-xi.vercel.app)
 Jotion: Notion clone
 
 Link -> [Jotion](https://jotion-gamma-nine.vercel.app)
-
-**I have also worked on some projects in private repo**
-
 
 ## 🔧 Web development stacks
 - HTML, CSS, Javascript
