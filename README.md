@@ -2,7 +2,7 @@
 
 **👩‍💻 I have finished a part time web development bootcamp in Ironhack in 2023 on parallel of my day time medical wearable products developer job, currently pursuing DevOps bootcamp in La Capsule**
 
-**💡 Armed with a design and wearable product background,** 
+**💡 Armed with a design and wearable product background** 
 
 📍 Paris, France  
 
